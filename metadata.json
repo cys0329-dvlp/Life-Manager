@@ -1,0 +1,5 @@
+{
+  "name": "Life Manager",
+  "description": "가계부, 캘린더, To-Do List가 통합된 라이프 매니저 앱입니다.",
+  "requestFramePermissions": []
+}
